@@ -1,0 +1,23 @@
+print('Hello world')
+
+print("Обернене слово")
+a= 'mama' [::-1]
+print(a)
+
+print("Калькулятор")
+x=15
+y=10
+c=5
+
+b=x+y+c
+f=(x+c)/y
+k=(y+c)*(y-c)
+print(b)
+print(f)
+print(k)
+
+print("Подвоєння")
+s1 ='CHORNE MORE'
+for i in s1:
+    print(2*i, end='')
+
